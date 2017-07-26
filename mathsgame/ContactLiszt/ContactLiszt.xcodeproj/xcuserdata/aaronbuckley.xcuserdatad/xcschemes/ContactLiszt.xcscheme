@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F3B06CDD1F27D321006C0555"
-               BuildableName = "mathsgame"
-               BlueprintName = "mathsgame"
-               ReferencedContainer = "container:mathsgame.xcodeproj">
+               BlueprintIdentifier = "F3B06CF91F28291F006C0555"
+               BuildableName = "ContactLiszt"
+               BlueprintName = "ContactLiszt"
+               ReferencedContainer = "container:ContactLiszt.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F3B06CDD1F27D321006C0555"
-            BuildableName = "mathsgame"
-            BlueprintName = "mathsgame"
-            ReferencedContainer = "container:mathsgame.xcodeproj">
+            BlueprintIdentifier = "F3B06CF91F28291F006C0555"
+            BuildableName = "ContactLiszt"
+            BlueprintName = "ContactLiszt"
+            ReferencedContainer = "container:ContactLiszt.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F3B06CDD1F27D321006C0555"
-            BuildableName = "mathsgame"
-            BlueprintName = "mathsgame"
-            ReferencedContainer = "container:mathsgame.xcodeproj">
+            BlueprintIdentifier = "F3B06CF91F28291F006C0555"
+            BuildableName = "ContactLiszt"
+            BlueprintName = "ContactLiszt"
+            ReferencedContainer = "container:ContactLiszt.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F3B06CDD1F27D321006C0555"
-            BuildableName = "mathsgame"
-            BlueprintName = "mathsgame"
-            ReferencedContainer = "container:mathsgame.xcodeproj">
+            BlueprintIdentifier = "F3B06CF91F28291F006C0555"
+            BuildableName = "ContactLiszt"
+            BlueprintName = "ContactLiszt"
+            ReferencedContainer = "container:ContactLiszt.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
